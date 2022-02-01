@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RecipeMaker">
+    <output-path>$PROJECT_DIR$/out/artifacts/RecipeMaker</output-path>
+    <root id="archive" name="RecipeMaker.jar">
+      <element id="module-output" name="RecipeMaker" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
